@@ -11,7 +11,7 @@ We use Python 3.8.15, Pytorch 2.4.1.
 - The confirmed cases in Japan are collected from https://www.mhlw.go.jp/stf/covid-19/open-data.html.
 - The confirmed cases in US are collected from https://github.com/CSSEGISandData/COVID-19.
 
-## Data resources
+## Acknowledgements
 
 Following studies are greatly influenced our study. We are grateful for their programs which served as the basis for our code development.
 
